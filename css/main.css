@@ -1,10 +1,19 @@
 /*css*/
+html {
+    font-family: GillSans, Calibri, Trebuchet, sans-serif;
+}
 .nav-wrapper a{
 	color: #fce4ec;
+}
+.side-nav a {
+	color: #880e4f;
 }
 .input-field .prefix.active {
 	color: #880e4f;
 }
 .pd {
 	padding-top: 3%;
+}
+h5, h1 {
+	font-style: italic;
 }
